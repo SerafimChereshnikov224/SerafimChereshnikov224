@@ -1,4 +1,4 @@
-# Hi, I'm Daniil Kornishev !
+# 📀 Hi, I'm Daniil Kornishev !
 
 I'm a beginner software engineer with a passion for backend development on Java.
 
