@@ -2,7 +2,7 @@
 
 I'm a beginner software engineer with a passion for backend development on Java.
 
-- 🧑‍🎓 Software engineering [MEPHI](https://en.wikipedia.org/wiki/National_Research_Nuclear_University_MEPhI_(Moscow_Engineering_Physics_Institute)) student
+- 🧑‍🎓 Software engineering [MEPhI](https://en.wikipedia.org/wiki/National_Research_Nuclear_University_MEPhI_(Moscow_Engineering_Physics_Institute)) student
 
 ## 🎨 My stack!
 - Langs: Java, Scala, Kotlin;
