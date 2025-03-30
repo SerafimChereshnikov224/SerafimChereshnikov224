@@ -10,13 +10,11 @@ I'm a beginner software engineer with a passion for backend development on Java.
 - Concepts: OOP, FP, SOLID, REST, HTTP, algorithms and data structures, discrete mathematics, mathematical statistics, parallel programming and distributed systems, database design and development.
 
 ## 📚 My Resume!
-[Резюме](https://github.com/SerafimChereshnikov224/Resume)
+- [Резюме](https://github.com/SerafimChereshnikov224/Resume)
 
 ## 📬 Contact me!
 
 - E-mail: [doddadid@gmail.com](mailto:doddadid@gmail.com)
-- Telegram: [t.me/DaniсhVolk](https://t.me/ferio76)
+- Telegram: [t.me/ferio76](https://t.me/ferio76)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntdv&layout=compact&hide_border=true&theme=nord&langs_count=10&exclude_repo=agrosmart&hide=typescript)
-
-[![leetcode](https://leetcode.com/u/Doddadid_Dod/)
+- [leetcode](https://leetcode.com/u/Doddadid_Dod/)
