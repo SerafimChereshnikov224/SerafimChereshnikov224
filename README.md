@@ -10,7 +10,7 @@ I'm a beginner software engineer with a passion for backend development on Java.
 - Concepts: OOP, FP, SOLID, REST, HTTP, algorithms and data structures, discrete mathematics, mathematical statistics, parallel programming and distributed systems, database design and development.
 
 ## 📜 My Resume!
-- [CV](https://github.com/SerafimChereshnikov224/Resume)
+- [Resume](https://github.com/SerafimChereshnikov224/Resume)
 
 ## 📧 Contact me!
 - E-mail: [doddadid@gmail.com](mailto:doddadid@gmail.com)
