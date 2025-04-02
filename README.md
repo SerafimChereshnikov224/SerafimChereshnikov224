@@ -15,6 +15,7 @@ I'm a beginner software engineer with a passion for backend development on Java.
 ## 📧 Contact me!
 - E-mail: [doddadid@gmail.com](mailto:doddadid@gmail.com)
 - Telegram: [t.me/ferio76](https://t.me/ferio76)
+- Habr: [career.habr.com/daneck](https://career.habr.com/daneck)
 
 ## 🪖 More about me!
 - [leetcode](https://leetcode.com/u/Doddadid_Dod/)
